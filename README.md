@@ -10,4 +10,4 @@
 
 ## Example Test Cases
 Below are some example test cases for the Tania Książka online store, focusing on the shopping cart functionality:
-[Link to Google Drive with Test Cases](https://docs.google.com/document/d/1Z4bdBlfbHSmgCluSddB2TKbh4sKNfwxpwjtsRHYKdBc/edit)
+[Link to Test Cases PDF](https://drive.google.com/uc?export=download&id=1Z4bdBlfbHSmgCluSddB2TKbh4sKNfwxpwjtsRHYKdBc)
